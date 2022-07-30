@@ -1,0 +1,1 @@
+{"dungeon_options": {"walls": "#", "floor": " ", "empty": ".", "treasure": " []", "player": "X", "shards": "*", "portal": "@"}, "color_options": {"walls": null, "floor": null, "empty": null, "treasure": null, "player": null, "shards": "\u001b[34m", "portal": null}}
